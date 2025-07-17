@@ -7,7 +7,7 @@ export default function CountryDetailShimmer() {
       <div className="details-text-container">
         <h1 className="title"></h1>
         <div className="">
-          <p>{console.log(CountryDetailShimmer)}</p>
+          <p></p>
           <p></p>
           <p></p>
           <p></p>
